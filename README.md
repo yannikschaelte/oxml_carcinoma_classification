@@ -1,2 +1,2 @@
-# oxml_carcinoma_classification
-OxML 2023 Carcinoma classification challenge
+# OxML 2023 Carcinoma Classification Challenge
+- Challenge website: https://www.kaggle.com/competitions/oxml-carinoma-classification
